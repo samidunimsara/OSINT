@@ -212,7 +212,3 @@ keywords such as leaked + db = indicated leaked database
 * If you use more than 2 keywords, chances are to get less false positives. 
 * Use any language = monitor russian / chinese posts/ forums based on keywords and their associations 
 * Use different search engines = different results, different sources indexed / archived 
-
-# Google Dork Automation 
-
-https://github.com/opsdisk/pagodo
